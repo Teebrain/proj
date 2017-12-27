@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+	background-color: gold;
+}
+
+.wolf-image {
+	cursor: pointer;
+	border: 2px dotted black;
+	border-radius: 25px;
+	width: 300px;
+	height: 270px;
+}
+
+.container {
+	border: 2px double black;
+	border-radius: 25px;
+	width: 300px;
+	height: 400px;
+	margin: auto;
+	padding: 5px;
+	background-image: url(../imgs/paper.jpeg);
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+   margin-left: -2em;
+   padding: 2px;
+   width: 100%;
+   position: relative;
+}
+
+
+h1 {
+	font-family: oblique;
+	color: black;
+	text-decoration: underline;
+}
