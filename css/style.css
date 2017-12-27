@@ -1,3 +1,15 @@
+html {
+	border: 2px double black;
+	border-radius: 25px;
+	border-style: solid;
+	width: 380px;
+	height: 850px;
+	margin: auto;
+	padding: 5px;
+	box-shadow: 2px 3px black;
+	display:inline-block;
+}
+
 body {
 	text-align: center;
 	background-color: gold;
